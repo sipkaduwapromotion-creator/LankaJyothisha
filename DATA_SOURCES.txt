@@ -1,0 +1,11 @@
+ස්ථාන දත්ත මූලාශ්‍රය:
+Open Admin Data - Sri Lanka Administrative Divisions
+https://github.com/open-admin-data/sri-lanka-administrative-divisions
+දත්ත බලපත්‍රය: CC-BY-4.0
+මෙම repository එකේ 25 districts, 339 DS divisions සහ 14,043 GN divisions සඳහා දත්ත සපයා ඇත.
+App එකේ CSV ආයාතකය දැනට district/DSD ආකෘතියේ CSV තීරු කියවයි. GN JSON දත්ත සෘජුව ආයාත කිරීම මේ build එකේ ඇතුළත් නැත.
+
+තාරකා විද්‍යාත්මක ගණනය:
+Swiss Ephemeris / pyswisseph
+https://www.astro.com/swisseph/
+භාවිතයට පෙර Swiss Ephemeris බලපත්‍ර කොන්දේසි පරීක්ෂා කරන්න.
