@@ -228,6 +228,8 @@ class JyothishaApp:
 
     def load_nak_attributes(self):
         path = APP_DIR / "nakshatra_attributes_template.csv"
+        if not path.exists() and getattr(sys, "frozen", False):
+            path = Path(getattr(sys, "_MEIPASS", APP_DIR)) / "nakshatra_attributes_template.csv"
         if not path.exists():
             return
         try:
